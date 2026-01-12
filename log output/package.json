@@ -1,0 +1,11 @@
+{
+  "name": "logs-output",
+  "version": "1.0.0",
+  "description": "A Node.js application that generates a random UUID on startup and logs it with timestamps every 5 seconds",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
